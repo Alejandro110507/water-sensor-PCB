@@ -1,0 +1,13 @@
+# Altium generated files
+History/
+__Previews/
+*.SchDocPreview
+*.PcbDocPreview
+*.PrjPcbStructure
+*.log
+*.tmp
+*.bak
+
+# Windows junk
+Thumbs.db
+.DS_Store
